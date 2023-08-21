@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhanuo8
 - 👀 I’m interested in developing a real time applications and automation testing and mannual testing
-- 🌱 I’m currently learning  master's of computer application
+- 🌱 I’m currently learning  master's of computer application(MCA)
 - 💞️ I’m looking to collaborate on testing
 - 📫 How to reach me ...
 
